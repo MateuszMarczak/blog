@@ -12,7 +12,7 @@ title: Forever Jekyll
 description: A simple, elegant and full featured Jekyll theme
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/image/avatar.png
+avatar: https://avatars.githubusercontent.com/u/42031985?v=4
 
 #
 # Flags below are optional
