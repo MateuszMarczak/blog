@@ -9,7 +9,7 @@ lang: "en"
 title: Mateusz Marczak
 
 # Short bio or description (displayed in the header)
-description: My first tech blog
+description: My tech blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/42031985?v=4
@@ -34,7 +34,7 @@ navigation_links:
     url: /
 
   - title: About
-    url: /about
+    url: https://github.com/MateuszMarczak
 
   - title: Search
     url: /search
