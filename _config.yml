@@ -20,7 +20,7 @@ avatar: https://avatars.githubusercontent.com/u/42031985?v=4
 
 # Your website URL (e.g. https://forever-jekyll.github.io or https://forever-jekyll.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://MateuszMarczak.github.io
+url: https://MateuszMarczak.github.io/blog
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -31,13 +31,13 @@ baseurl: "/blog"
 # Navigation menu
 navigation_links:
   - title: Blog
-    url: /
+    url: https://mateuszmarczak.github.io/blog
 
   - title: About
     url: https://github.com/MateuszMarczak
 
   - title: Search
-    url: /search
+    url: https://mateuszmarczak.github.io/search
 
 # Footer icons
 footer_links:
@@ -57,7 +57,7 @@ footer_links:
 #copyright: "This site is made with <3 by *me, myself, and I*."
 
 # Time zone
-timezone: null
+timezone: Europe/Warsaw
 
 # Excerpt separator
 excerpt_separator: <!--more-->
